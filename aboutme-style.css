@@ -1,0 +1,57 @@
+.aboutProject{
+	padding:20px;
+	background-color:#FFF8DC ;
+	align-items: center;
+}
+.entrance{
+	color:red;
+}
+.classTable{	
+	font-style:cursive;
+}
+.neighbor{
+	padding: 30px;
+	background-color: #F5F5F5;
+}
+.happy{
+	font-family: cursive;
+	background-color: #7FFF00;
+}
+.sad{
+
+	font-style: fantasy;
+	background-color: #FF0000
+}
+.favorite{
+	padding:10px;
+	align-items: center;
+	font-size:large;}
+.valuable{
+	font-style: cursive;
+	color:#8B0000;
+}
+a{
+	font-size: 1.2em;
+	font-weight: bold;
+	text-decoration: none;
+}
+a:hover{
+	font-size:150%;
+	background-color: yellow;
+	text-decoration:underline;
+}
+h3::first-letter{
+	  font-size: 150%;
+}
+h1::first-letter{
+	font-size:150%;
+}
+h2::first-letter{
+	font-size:150%;
+}
+li::first-letter{
+	font-size:150%;
+}
+.entrance::first-letter{
+	  font-size: 1.5em;
+}
